@@ -8,3 +8,6 @@ There are also setup files that will install that version of TDesktop available 
 [telegram-for-desktop.en.uptodown.com/old](http://telegram-for-desktop.en.uptodown.com/old),
 rather get those if you can. As the size of this repo is already
 almost a gigabyte I won't mirror them here.
+
+You can also get setups directly from Telegram:
+[`updates.tdesktop.com/tsetup/tsetup.0.9.18.exe`](https://updates.tdesktop.com/tsetup/tsetup.0.9.18.exe)
